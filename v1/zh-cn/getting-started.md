@@ -55,7 +55,7 @@ $ npm install -g dva-cli
 $ dva new myApp --demo
 ```
 
-注意：`--demo` 用于创建简单的 demo 级项目，正常项目初始化不加要这个参数。
+注意：`--demo` 用于创建简单的 demo 级项目，正常项目初始化不要加这个参数。
 
 然后进入项目目录，并启动。
 
